@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["new_promise","create a new Promise, this will be used later by invoke_rust_op"],["new_promise_with_exe",""],["object_is_promise",""],["reject_promise",""],["resolve_promise",""]]});

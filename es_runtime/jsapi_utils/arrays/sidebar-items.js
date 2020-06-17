@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_array_element","get the Value of an index of an Array"],["get_array_length","get the length of an Array"],["new_array","create a new array obj"],["object_is_array","check whether or not an Object is an Array"],["push_array_element",""],["set_array_element",""],["to_i32_array","convert a Vec to an Array"],["to_i32_vec","convert an Array to a Vec"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["consume_cached_object",""],["do_with_cached_object",""],["register_cached_object",""]],"struct":[["SmRuntime","wrapper for the SpiderMonkey runtime"]],"type":[["GlobalOp",""],["OP","the type for registering rust_ops in the script engine"]]});

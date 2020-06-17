@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EsRuntime","the EsRuntime is a facade that adds all script todo's to the SmRuntimeWrapper's MicroTaskManager so they are invoked in a single worker thread you can wait for those tasks to complete by calling the _sync variants of the public methods here"]],"type":[["ModuleCodeLoader",""]]});
